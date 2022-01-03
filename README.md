@@ -5,7 +5,7 @@ Software for the automatic processing of 2D Optical Coherence Tomography (OCT) i
 
 1 - Download:
 
-* (i) "BISCAP_v1" (software)
+* (i) "BISCAP_v1" (software, available only for Windows operating system)
 
 * (ii) "examples" (includes a set of suggested examples for biofilm OCT images)
 
