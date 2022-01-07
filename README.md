@@ -16,3 +16,8 @@ Software for the automatic processing of 2D Optical Coherence Tomography (OCT) i
 3 - Open "BISCAP_v1" (usually takes a few seconds to load)
 
 4 - Open "user_manual_v1" for detailed instructions on how to use the software
+
+## Support:
+If you have any trouble using the software or have any suggestions for improvements, please contact me at:
+
+dnarciso@fe.up.pt
