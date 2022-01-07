@@ -1,2 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+BISCAP_v1.exe filter=lfs diff=lfs merge=lfs -text
+examples.zip filter=lfs diff=lfs merge=lfs -text
