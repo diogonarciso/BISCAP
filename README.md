@@ -20,4 +20,4 @@ Software for the automatic processing of 2D Optical Coherence Tomography (OCT) i
 ## Support:
 If you have any trouble using the software or have any suggestions for improvements, please contact me at:
 
-dnarciso@fe.up.pt
+diogo.narciso@tecnico.ulisboa.pt
