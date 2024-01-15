@@ -1,6 +1,12 @@
 # BISCAP
 Software for the automatic processing of 2D Optical Coherence Tomography (OCT) images.
 
+A new 3D version will be made available soon.
+
+
+
+
+
 ## How to use the files in this project:
 
 1 - Download:
