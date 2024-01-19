@@ -11,7 +11,7 @@ A new 3D version will be made available soon.
 
 * (ii) "examples" (includes a set of suggested examples for biofilm OCT images; available from https://web.fe.up.pt/~fgm/biscap3d/ - "Tutorial Examples")
 
-* (iii) "user_manual" (included as supplementary material of article "3D Optical Coherence Tomography image pro-cessing in BISCAP: characterization of biofilm structure and properties" in XX)
+* (iii) "user_manual" (included as supplementary material of article "3D Optical Coherence Tomography image processing in BISCAP: characterization of biofilm structure and properties" in XX)
   
 2 - Extract "examples"
 
