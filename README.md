@@ -1,8 +1,6 @@
 # BISCAP
 Software for the automatic processing of 2D and 3D Optical Coherence Tomography (OCT) images.
 
-A new 3D version will be made available soon.
-
 ## How to use the files in this project:
 
 1 - Download:
@@ -11,7 +9,7 @@ A new 3D version will be made available soon.
 
 * (ii) "examples" (includes a set of suggested examples for biofilm OCT images; available from https://web.fe.up.pt/~fgm/biscap3d/ - "Tutorial Examples")
 
-* (iii) "user_manual" (included as supplementary material of article "3D Optical Coherence Tomography image processing in BISCAP: characterization of biofilm structure and properties" in XX)
+* (iii) "user_manual" (included as supplementary material of article "3D Optical Coherence Tomography image processing in BISCAP: characterization of biofilm structure and properties" in https://doi.org/10.1093/bioinformatics/btae041)
   
 2 - Extract files "BISCAP_v2" and "examples"
 
