@@ -7,7 +7,7 @@ Software for the automatic processing of 2D and 3D Optical Coherence Tomography 
 
 * (i) "BISCAP_v2" (software, available only for **Windows operating systems**)
 
-* (ii) "examples" (includes a set of suggested examples for biofilm OCT images; available from https://web.fe.up.pt/~fgm/biscap3d/](https://pages.up.pt/~up241384/biscap3d/ - "Tutorial Examples")
+* (ii) "examples" (includes a set of suggested examples for biofilm OCT images; available from https://web.fe.up.pt/~fgm/biscap3d/ - "Tutorial Examples")
 
 * (iii) "user_manual" (included as supplementary material of article "3D Optical Coherence Tomography image processing in BISCAP: characterization of biofilm structure and properties" in https://doi.org/10.1093/bioinformatics/btae041)
   
